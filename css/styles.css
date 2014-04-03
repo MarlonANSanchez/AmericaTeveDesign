@@ -94,10 +94,31 @@ background-image: linear-gradient(to bottom, #D97176 0%, #C20202 50%) !important
     color: #666666;
 }
 
-.nav-footer li{
-    font-size: 22px;
+.bordered{
+    border-top: 9px solid #580000;
+}
+
+.null-padding-rl{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.nav-bar-footer{
+    background-color: #A80000;
+}
+
+.nav-footer li,.nav-footer li a{
+    padding:15px;
+    
+    font-size: 20px;
     color:white;
     font-weight: bolder;
-    border-bottom: 1px solid rgba(0,0,0,0.2);
+    text-align: right;
+}
+.rights{
+    font-size: 18px;
+    color: white;
+    text-align: right;
+    line-height: 1em
 }
 
