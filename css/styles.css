@@ -81,8 +81,9 @@ background-image: linear-gradient(to bottom, #D97176 0%, #C20202 50%) !important
     margin-top: -5px;
 }
 
-.readMore button{
-    margin-left: 15px
+.readMore a{
+    margin-left: 15px;
+    color: black;
 }
 
 .date{

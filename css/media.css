@@ -1,27 +1,27 @@
 @media (max-width: 390px){
     .america img{
-        height: 55%
+        height: 50%
     }
     .redes img{
-        width: 20px;
-        height: 20px;
-        margin-top: 4px
+        width: 19px;
+        height: 19px;
+        margin-top: 3px
     }
     .date{
-        font-size: 40%
+        font-size: 35%
     }
     .toggle-btn {
         width: 8px;
         height: 8px
     }
     .news h2{
-        font-size: 14px;
+        font-size: 12px;
     }
     .news p{
         font-size: 8px
     }
     .btn-neutral {
-        font-size: 3px !important;
+        font-size: 2px !important;
         margin-top: 0px
     }
     .nav-footer li,.nav-footer li a{
@@ -125,6 +125,20 @@
     }
     .navbar-collapse.in {
         overflow-y: visible;
+    }
+
+    /* Codigo de sebastian*/
+    .img-table-responsive{
+        height: 400px;
+    }
+
+    .news{
+        margin-right: 60px;
+        margin-left: 60px;
+    }
+
+    .btn-RandB{
+
     }
 }
 
