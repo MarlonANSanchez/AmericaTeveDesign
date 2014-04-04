@@ -122,3 +122,7 @@ background-image: linear-gradient(to bottom, #D97176 0%, #C20202 50%) !important
     line-height: 1em
 }
 
+.height-responsive{
+        height: 350px;
+} 
+
