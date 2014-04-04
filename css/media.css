@@ -1,11 +1,11 @@
-@media (max-width: 390px){
+@media (max-width: 410px){
     .america img{
-        height: 50%
+        height: 60% !important;
     }
     .redes img{
-        width: 19px;
-        height: 19px;
-        margin-top: 3px
+        width: 20px !important;
+        height: 20px !important;
+        margin-top: 4px !important;
     }
     .date{
         font-size: 35%
@@ -130,15 +130,13 @@
     /* Codigo de sebastian*/
     .img-table-responsive{
         height: 400px;
+        width: 85%;
+        margin: auto;
     }
 
-    .news{
-        margin-right: 60px;
-        margin-left: 60px;
-    }
-
-    .btn-RandB{
-
+    .line-news-responsive{
+        width: 85%;
+        margin: auto;
     }
 }
 
