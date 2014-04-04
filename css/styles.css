@@ -108,9 +108,8 @@ background-image: linear-gradient(to bottom, #D97176 0%, #C20202 50%) !important
 }
 
 .nav-footer li,.nav-footer li a{
-    padding:15px;
-    
-    font-size: 20px;
+    padding:5px;    
+    font-size: 28px;
     color:white;
     font-weight: bolder;
     text-align: right;
